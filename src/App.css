@@ -1,0 +1,27 @@
+.table-border {
+  border-collapse: collapse;
+  width: 50%;
+  margin: auto;
+}
+
+.table-border td, .table-border th {
+  border: 1px solid rgb(102, 86, 86);
+  padding: 8px;
+}
+
+.table-border th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4c6baf;
+  color: white;
+}
+
+.center{
+  text-align: center;
+}
+
+.dark{
+  background-color: black;
+  color: white;
+}
